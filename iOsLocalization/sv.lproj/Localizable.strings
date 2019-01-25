@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iOsLocalization
+
+  Created by Gabriel Richter Reynoso on 2019-01-25.
+  Copyright © 2019 Gabriel Richter Reynoso. All rights reserved.
+*/
+
+"button_pressed" = "Knappen är tryckt";
+"good_bye" = "Goodbye!";
